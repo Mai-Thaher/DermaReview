@@ -1,6 +1,6 @@
-##DermaReview
+## DermaReview
 </br>
-#Introduction
+# Introduction
 Derma Review is a new Palestinian’s derma cosmetic guide – we’re the place to head to and find out if a medical cosmetic product is worth purchasing. By reading independent reviews on Derma Review first, you’ll never make a bad product buy again!
 We’re also the place to head to if you want to share your thoughts, opinions and experiences, adding to our incredible resource. Through our intuitive interface and smart search capabilities, you can discover the different available brands for the same indication of medical derma cosmetic products. The best way to discover all we have to offer is to follow the 3Rs of Derma Review: Register, Review and Recommend (new products).
 </br>
