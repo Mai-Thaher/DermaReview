@@ -1,0 +1,73 @@
+body{
+    background-color:antiquewhite;
+}
+.product_info{
+    width: 50%;
+    margin-left: 20%;
+}
+.card-body{
+    background-color:antiquewhite;
+    text-align: left;
+}
+.web-title{
+    
+    font-style: italic;
+    font-family:cursive;
+}
+.subtitle{
+    font-size: 20px;
+    font-family:cursive;
+}
+#review-body{
+    background-color:rgb(245, 218, 183);
+    box-shadow: 4px 4px 4px grey;
+    text-align: center;
+}
+.py-5{
+    background-color:rgb(252, 203, 140); 
+    width: 70%;
+    margin-left: 15%;
+}
+.product_img{
+    width: 30%;
+    height: 35%;
+    margin-bottom: 10px;
+}
+.logout{
+    position: absolute;
+    right: 20%;
+    top: 40%;
+}
+.addreview{
+    margin-left: 15%;
+}
+.reviewcontent{
+    background-color:rgb(252, 203, 140) ;
+}
+.edit{
+    display: inline;
+}
+.btn-group{
+    border: none;
+    margin-left: 18%;
+}
+.edit, .delete{
+    color: blue;
+    text-decoration: underline;
+}
+.product_name{
+    color: rgb(27, 133, 204);
+}
+.product_img {
+    transition: transform 0.3s ease-in-out;
+}
+
+.product_img:hover {
+    transform: scale(1.4);
+}
+.edit-form{
+    margin-left: 17%;
+}
+.edit-review{
+    background-color:rgb(252, 203, 140) ;
+}

@@ -1,0 +1,92 @@
+body{
+    background-color:antiquewhite;
+}
+
+.nav-link{
+    font-size: large;
+}
+.card-body{
+    background-color:antiquewhite;
+}
+.big{
+max-width: 1200px;
+margin: auto;
+}
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+    height: 183px;
+}
+.col-lg-7{
+    width: 700px;
+}
+.card-body{
+    height: 278px;
+}
+
+.sun-p{
+    margin-bottom: 65px;
+}
+.toner-p{
+    margin-bottom: 85px;
+}
+.exf-p{
+    margin-bottom: 40px;
+}
+.eye-p{
+    margin-bottom:65px ;
+}
+.moist-p{
+    margin-bottom: 88px;
+}
+.form-control{
+    width: 100px;
+}
+.input-group{
+    width: 20%;
+    margin-left: 19%;
+}
+.web-title{
+    
+    font-style: italic;
+    font-family:cursive;
+}
+.subtitle{
+    font-size: 20px;
+    font-family:cursive;
+}
+.about_us{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+#cleanser_body{
+    height: 120px;
+}
+.recommend{
+    margin-left: 20%;
+}
+.recommend_form{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.products{
+    position:absolute;
+    top: 250px;
+    right: 40%;
+}
+.welcome{
+    margin-left: 19%;
+    margin-top: 2%;
+    color: rgb(226, 189, 108);
+}
+.thankyou{
+    text-align: center;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+.original_output{
+    margin-top: 2%;
+}
+
